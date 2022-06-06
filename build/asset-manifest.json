@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Bar856/BattleGame.git/static/css/main.f8244572.css",
+    "main.js": "/Bar856/BattleGame.git/static/js/main.e00ca882.js",
+    "static/media/war.jpeg": "/Bar856/BattleGame.git/static/media/war.3b626818264a16ab995e.jpeg",
+    "static/media/11.png": "/Bar856/BattleGame.git/static/media/11.49aa9ad51b1556fef447.png",
+    "static/media/12.png": "/Bar856/BattleGame.git/static/media/12.1db198240342d5be2704.png",
+    "static/media/13.png": "/Bar856/BattleGame.git/static/media/13.8836419d3b6bfa9178bf.png",
+    "static/media/9.png": "/Bar856/BattleGame.git/static/media/9.b7d823fc61c99d7a23be.png",
+    "static/media/8.png": "/Bar856/BattleGame.git/static/media/8.6b60abaa6e094ae0d0ab.png",
+    "static/media/10.png": "/Bar856/BattleGame.git/static/media/10.64b3f9dcf1ec7dd16323.png",
+    "static/media/7.png": "/Bar856/BattleGame.git/static/media/7.96f104bdbd01123be1b7.png",
+    "static/media/6.png": "/Bar856/BattleGame.git/static/media/6.b73d7bbda39322006be7.png",
+    "static/media/5.png": "/Bar856/BattleGame.git/static/media/5.bbbaeb705b6169942cb0.png",
+    "static/media/4.png": "/Bar856/BattleGame.git/static/media/4.d33c71faf26b07c00f95.png",
+    "static/media/3.png": "/Bar856/BattleGame.git/static/media/3.b7134eca89ca43340341.png",
+    "static/media/2.png": "/Bar856/BattleGame.git/static/media/2.ece0a091779a22ff30c6.png",
+    "index.html": "/Bar856/BattleGame.git/index.html",
+    "main.f8244572.css.map": "/Bar856/BattleGame.git/static/css/main.f8244572.css.map",
+    "main.e00ca882.js.map": "/Bar856/BattleGame.git/static/js/main.e00ca882.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8244572.css",
+    "static/js/main.e00ca882.js"
+  ]
+}
