@@ -163,9 +163,7 @@ function App() {
   return (
     <div className="App">
       {switchPage()}
-      <div className='container'>
-        <footer><h2 className='green'>Created by Bar</h2></footer>
-      </div>
+      
     </div>
   );
 }
