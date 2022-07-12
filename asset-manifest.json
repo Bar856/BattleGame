@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/BattleGame/static/css/main.78b220e9.css",
-    "main.js": "/BattleGame/static/js/main.04a7f7cc.js",
+    "main.js": "/BattleGame/static/js/main.88488bc2.js",
     "static/media/war.jpeg": "/BattleGame/static/media/war.3b626818264a16ab995e.jpeg",
     "static/media/11.png": "/BattleGame/static/media/11.49aa9ad51b1556fef447.png",
     "static/media/12.png": "/BattleGame/static/media/12.1db198240342d5be2704.png",
@@ -17,10 +17,10 @@
     "static/media/2.png": "/BattleGame/static/media/2.ece0a091779a22ff30c6.png",
     "index.html": "/BattleGame/index.html",
     "main.78b220e9.css.map": "/BattleGame/static/css/main.78b220e9.css.map",
-    "main.04a7f7cc.js.map": "/BattleGame/static/js/main.04a7f7cc.js.map"
+    "main.88488bc2.js.map": "/BattleGame/static/js/main.88488bc2.js.map"
   },
   "entrypoints": [
     "static/css/main.78b220e9.css",
-    "static/js/main.04a7f7cc.js"
+    "static/js/main.88488bc2.js"
   ]
 }
