@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import { useState } from 'react';
 import Card from './Card'
 import { ToastContainer } from 'react-toastify';
@@ -11,6 +11,11 @@ export default function Game(props) {
     const [round, setRound] = useState(0)
     const [hitButton, setHitButton] = useState('HIT')
     const [deckClicked, setDeckClicked] = useState(false)
+    useEffect(() => {
+        if (round == 2)
+         {hitBtnFn()}
+    },)
+    
     const deckFn = () =>{
         setDeckClicked(true);
         document.getElementById("deckBtn").disabled=true;
