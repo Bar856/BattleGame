@@ -15,7 +15,7 @@ function App() {
     lose:0,
     games:0
   });
-  // fns cards
+  // fns cardss
   // shuffle the array
   function shuffle(array) {
     let currentIndex = array.length,  randomIndex;
